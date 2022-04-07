@@ -1,2 +1,0 @@
-# GameSkyPc
-Games
